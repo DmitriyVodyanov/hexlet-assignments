@@ -20,7 +20,7 @@ class Segment {
 	}
 
 	public Point getMidPoint() {
-		return midPoint;
+		return new Point(-1, 1);
 	}
 }
 // END
